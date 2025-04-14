@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://gadun-fm.github.io/news/sitemap.xml
